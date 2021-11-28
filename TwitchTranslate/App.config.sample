@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/></startup>
+	<appSettings>
+		<add key="twitch_username" value="Set_your_twitch_username"/>
+		<add key="access_token" value="Set_your_token"/>
+		<add key="channel" value="Set_your_channel"/>
+		<add key="GoogleAppsScriptUrl" value="https://script.google.com/macros/s/Set_your_script_id/exec"/>
+		<add key="HomeLaunguage" value="ja"/>
+		<add key="TranslateLaunguage" value="en"/>
+	</appSettings>
+</configuration>
